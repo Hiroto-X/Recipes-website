@@ -66,7 +66,7 @@ odin-recipes/
 ## 🙌 Acknowledgements
 
 - [The Odin Project](https://www.theodinproject.com/) for providing the learning path and project inspiration.
-- Recipe creators and websites used as references during recipe research.
+- Recipe creators and websites used as references during recipe research (Mostly i used gpt for recipe description,ingredients,and steps).
 
 ## 📄 License
 
