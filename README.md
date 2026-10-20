@@ -12,22 +12,34 @@ A home page which provides links to all individual recipes pages and a link whic
 The Website currently includes following recipes:
 
 -**Butter Chicken** — A rich and creamy indian chicken curry.
+
 -**Lasagna**  — A Classic Itlaian-inspired dish.
+
 -**Paneer Butter Masala** — A popular Indian curry dish with soft paneer cubes.
+
 -**Vegetable Pizza** — A homemade pizza topped with vegetables.
 
 Each recipe page includes:
+
 -Recipe Image
+
 -Recipe Description
+
 -Ingredients Lists
+
 -Step-by-step instructions
+
 -Serving suggestions
+
 -Chef's tips
+
 -Additional recipe information
 
 ## Technologies Used
 -**HTML5** — For structuring the website and displaying recipe content.
+
 -**Git** — For Version control.
+
 -**GitHub** — For hosting the project diarectroy.
 
 ## Project Structure
